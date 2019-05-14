@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Twitter Client</string>
+    <string name="login.error.message">Impossible session %s</string>
+    <string name="connexion.logout">Logout</string>
+    <string name="main.header.images">Images</string>
+    <string name="main.header.hashtags">Hashtags</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">channelFCM</string>
+    <string name="msg_token_fmt">My Token FB %s</string>
+    <string name="msg_subscribed">Subscribe</string>
+    <string name="msg_subscribe_failed">Subscribe Failed</string>
+</resources>
